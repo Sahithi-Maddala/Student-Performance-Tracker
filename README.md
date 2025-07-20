@@ -1,5 +1,4 @@
 # Student-Performance-Tracker
-# 📊 Student Marks Dashboard (Flask Project)
 
 A simple Flask web application that allows teachers or admins to:
 - Add, view, edit, and delete student marks
