@@ -26,3 +26,8 @@ A simple Flask web application that allows teachers or admins to:
 1. **Install dependencies**
    ```bash
    pip install flask matplotlib
+   
+2. **Run the application**
+   ```bash
+   python app.py
+
